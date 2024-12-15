@@ -58,6 +58,3 @@ player.PlayAudio(114,Exiled.API.Features.Paths.Exiled + "\\史蒂夫.ogg");
 ## 首先下载 dependencies.zip 然后解压到\EXILED\Plugins\dependencies\内
 ## 然后讲MusicDummy.dll 放入\EXILED\Plugins\dependencies\内
 ## 你就能就能使用这个API了🎈</br></br>
-
-# **作者📕**
-# *史蒂夫 🐧3251808715*
